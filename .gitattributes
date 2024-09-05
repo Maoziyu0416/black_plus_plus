@@ -1,2 +1,6 @@
 *.html linguist-language=python
+<<<<<<< HEAD
 *.dll linguist-language=python
+=======
+*.dll linguist-language=python
+>>>>>>> 8f2c61515d1ec7e955f7a7939c7b718180813283
