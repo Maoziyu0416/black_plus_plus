@@ -1,2 +1,2 @@
-*.html linguist-language=python
-*.dll linguist-language=python
+*.html linguist-language=black++
+*.dll linguist-language=black++
