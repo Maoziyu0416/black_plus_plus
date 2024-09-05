@@ -1,0 +1,3 @@
+# pyinstaller 生成文件
+build/
+dist/
