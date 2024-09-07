@@ -1,3 +1,5 @@
+version='2.1.0'
+github_site_url='https://github.com/Maoziyu0416/black_plus_plus/'
 import sys
 import re
 import json
@@ -84,6 +86,15 @@ def load_specific_from_bpp_module(module_name, item_name):
 
 run_type = 0
 sinfo = len(sys.argv)
+
+for i in sys.argv:
+    if i=='st':
+        break
+else:
+    print('欢迎使用由黑洞工作室自主开创研发的编程语言black++')
+    print(f'您正在使用{version}版本')
+    print(f'开源地址{github_site_url}')
+    print(f'如需隐藏此段内容，请启动时添加参数"st"至结尾,例如：{sys.argv[0]} code.bpp st')
 
 if sinfo == 1:
     print("参数错误，退出程序")
