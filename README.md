@@ -28,3 +28,8 @@ python bpp.py code.bpp compile
 ```python
 python bpp.py code.bpp run  
 ```
+### PS
+ps的内容可能比较多所以专门开了一块分区  
+1.渣狗的git习惯很差，经常提交类似于：update README.md 的内容，不过你放心，渣狗不会改的
+![image](https://github.com/user-attachments/assets/6b544e8e-a2a0-4113-b691-fe71d6f18291)
+
